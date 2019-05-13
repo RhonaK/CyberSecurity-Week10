@@ -17,7 +17,7 @@ In this project, we had to create a honeypot server, is a computer system that i
    - <img src='week10.gif' width='' alt='' />
    - Sensor Deploy
    - [x] GIF Walkthrough: 
-   - <img src='week10s.gif' width='' alt='' />
+   - <img src='week10ss.gif' width='' alt='' />
    
 ## Any unresolved questions raised by the data collected
  No
