@@ -13,11 +13,13 @@ There were lots of issues i was facing when I followed the instruction on the co
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 - [x] Summary:
-  - Deployed Honeypots
-  - data collected
-  - [x] GIF Walkthrough: 
-  - <img src='week10.gif' width='' alt='' />
-
+   - Deployed Honeypots
+   - Data collected
+   - [x] GIF Walkthrough: 
+   - <img src='week10.gif' width='' alt='' />
+   - Sensor Deploy
+   - [x] GIF Walkthrough: 
+   - <img src='week10s.gif' width='' alt='' />
 ## Any unresolved questions raised by the data collected
  No
  
